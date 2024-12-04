@@ -4,7 +4,7 @@ import Room from './compound/Room'
 import Roombook from './compound/Roombook'
 import Meal from './compound/meal'
 // import Dashboard from './compound/Dashboard'
-import Login from './compound/login'
+import Login from './compound/Login'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import Newuser from './compound/Newuser'
 import "bootstrap/dist/css/bootstrap.min.css";
