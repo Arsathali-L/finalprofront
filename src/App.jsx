@@ -3,12 +3,13 @@ import One from './compound/one'
 import Room from './compound/Room'
 import Roombook from './compound/Roombook'
 import Meal from './compound/meal'
-import Dashboard from './compound/dashboard'
+// import Dashboard from './compound/Dashboard'
 import Login from './compound/login'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import Newuser from './compound/Newuser'
 import "bootstrap/dist/css/bootstrap.min.css";
-// import Login from './compound/Login'
+import Dashboard from './compound/Dashboard'
+
 
 const App = () => {
   return (
