@@ -4,10 +4,11 @@ import Login from './compound/login'
 import Room from './compound/Room'
 import Roombook from './compound/Roombook'
 import Meal from './compound/meal'
+import Dashboard from './compound/dashboard'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import Newuser from './compound/Newuser'
 import "bootstrap/dist/css/bootstrap.min.css";
-import Dashboard from './compound/dashboard'
+
 
 const App = () => {
   return (

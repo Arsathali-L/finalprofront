@@ -8,7 +8,7 @@ const Dashboard = () => {
       </div>
       <div className='flex justify-around'>
       
-        <img src="./public/thum.jpg" alt="" className=''/>
+        <img src="./public/thum.jpg"/>
       </div>
       <hr />
       <div className='flex justify-center'>
