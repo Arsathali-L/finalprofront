@@ -30,7 +30,8 @@ const Newuser = () => {
     },
     onSubmit: async (values) => {
       try {
-        await axios.post("http://localhost:3000/register", values);
+        // await axios.post("http://localhost:3000/register", values);
+        await axios.post("https://finalprobackend-4.onrender.com/register",values);
         navigate('/Login');
       } catch (error) {
         console.log(error);
