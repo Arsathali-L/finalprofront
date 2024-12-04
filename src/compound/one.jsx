@@ -19,7 +19,7 @@ function One() {
         </div>
         
         <div className='border-2 border-black mt-16 w-full h-full  bg-zinc-500  rounded-full flex hover:bg-zinc-800'>
-          <button className='text-3xl p-20 font-bold '><Link to= "/login"> OLD USER CLICKHERE </Link></button>
+          <button className='text-3xl p-20 font-bold '><Link to= "/Login"> OLD USER CLICKHERE </Link></button>
         </div>
       </div>
     </div>
